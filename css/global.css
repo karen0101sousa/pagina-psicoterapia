@@ -1,0 +1,23 @@
+body {
+    margin: 0px;
+    font-family: "Roboto", Arial, sans-serif;
+    margin: 0px;
+    color: #09062C;
+    background-color: #F6F3EE;
+}
+
+h1, h2, h3, p {
+    margin: 0px;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    background-color: #F6F3EE;
+}
